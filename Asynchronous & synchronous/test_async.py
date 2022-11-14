@@ -13,3 +13,9 @@ async def otherFunction():
     print("2")
 
 asyncio.run(main())
+
+# output -
+# A
+# 1
+# B
+# 2
